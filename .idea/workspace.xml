@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef0e2800-68d1-4b49-a090-9a2b9b91c0ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/imports/ui/Link.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/Link.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/ui/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/SignUp.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,7 +28,7 @@
           <entry key="css" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
-          <entry key="js" value="50" />
+          <entry key="js" value="51" />
           <entry key="json" value="3" />
           <entry key="md" value="1" />
           <entry key="scss" value="21" />
@@ -39,7 +39,7 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="2" />
           <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="50" />
+          <entry key="JavaScript" value="51" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="21" />
@@ -48,7 +48,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="98" />
-          <entry key="js" value="16090" />
+          <entry key="js" value="16116" />
           <entry key="json" value="22" />
           <entry key="md" value="105" />
           <entry key="scss" value="3348" />
@@ -58,7 +58,7 @@
         <counts>
           <entry key="HTML" value="98" />
           <entry key="JSON" value="22" />
-          <entry key="JavaScript" value="16090" />
+          <entry key="JavaScript" value="16116" />
           <entry key="Markdown" value="105" />
           <entry key="SCSS" value="3348" />
         </counts>
@@ -88,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imports/ui/Link.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
@@ -154,7 +154,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imports/ui/Login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="85">
               <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -163,11 +163,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_item.scss">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imports/ui/SignUp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="236">
+              <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -200,7 +203,6 @@
         <option value="$PROJECT_DIR$/client/main.scss" />
         <option value="$PROJECT_DIR$/imports/routes/routes.js" />
         <option value="$PROJECT_DIR$/imports/ui/NotFound.js" />
-        <option value="$PROJECT_DIR$/imports/ui/SignUp.js" />
         <option value="$PROJECT_DIR$/imports/client/styles/components/_boxed-view.scss" />
         <option value="$PROJECT_DIR$/imports/ui/AddLink.js" />
         <option value="$PROJECT_DIR$/imports/client/styles/components/_header.scss" />
@@ -220,6 +222,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/imports/ui/Login.js" />
         <option value="$PROJECT_DIR$/imports/ui/Link.js" />
+        <option value="$PROJECT_DIR$/imports/ui/SignUp.js" />
       </list>
     </option>
   </component>
@@ -240,8 +243,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="529" />
-    <option name="y" value="51" />
+    <option name="x" value="602" />
+    <option name="y" value="97" />
     <option name="width" value="714" />
     <option name="height" value="1027" />
   </component>
@@ -367,17 +370,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47953000" />
+    <option name="totallyTimeSpent" value="48194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="189" width="714" height="1027" extended-state="0" />
+    <frame x="602" y="97" width="714" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.26839826" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.26839826" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.5212187" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.5212187" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -487,16 +490,6 @@
           <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/ui/SignUp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -646,16 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imports/ui/Login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imports/ui/PrivateHeader.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -670,6 +653,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/SignUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
