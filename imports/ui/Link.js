@@ -7,7 +7,7 @@ export default () =>{
 
         return (
             <div>
-                <PrivateHeader title="Short Lnk"/>
+                <PrivateHeader title="Custom Links"/>
                 <div className="page-content">
                     <LinksListFilters/>
                     <AddLink/>
