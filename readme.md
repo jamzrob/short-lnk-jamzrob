@@ -2,5 +2,5 @@
 
 Shortens links based on the Meteor and React frameworks
 
-#### Author
+## Author
 James Raubenheimer

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef0e2800-68d1-4b49-a090-9a2b9b91c0ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/imports/ui/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,7 +49,7 @@
         <counts>
           <entry key="html" value="98" />
           <entry key="js" value="16061" />
-          <entry key="md" value="10" />
+          <entry key="md" value="105" />
           <entry key="scss" value="3348" />
         </counts>
       </usages-collector>
@@ -56,7 +57,7 @@
         <counts>
           <entry key="HTML" value="98" />
           <entry key="JavaScript" value="16061" />
-          <entry key="Markdown" value="10" />
+          <entry key="Markdown" value="105" />
           <entry key="SCSS" value="3348" />
         </counts>
       </usages-collector>
@@ -116,8 +117,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="10" selection-start-column="10" selection-end-column="10" />
+              <first_editor relative-caret-position="92">
+                <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -233,9 +234,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1120" />
+    <option name="x" value="966" />
     <option name="y" value="23" />
-    <option name="width" value="560" />
+    <option name="width" value="714" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -360,17 +361,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45832000" />
+    <option name="totallyTimeSpent" value="46854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1120" y="23" width="560" height="1027" extended-state="0" />
+    <frame x="966" y="23" width="714" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.34508348" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.26839826" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.5212187" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.5212187" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -662,8 +663,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <first_editor relative-caret-position="92">
+            <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
