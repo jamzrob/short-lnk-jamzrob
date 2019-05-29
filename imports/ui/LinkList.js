@@ -47,7 +47,7 @@ export default class LinkList extends React.Component {
     render() {
         return (
             <div>
-                <FlipMove maintainContainerHeights={true}>
+                <FlipMove maintaincontainerheights="true">
                     {this.renderLinksListItems()}
                 </FlipMove>
             </div>
