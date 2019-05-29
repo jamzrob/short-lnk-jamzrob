@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef0e2800-68d1-4b49-a090-9a2b9b91c0ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/LinkList.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/LinkList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/PrivateHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/PrivateHeader.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -115,8 +113,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imports/ui/PrivateHeader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="115">
+              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -246,8 +244,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="628" />
-    <option name="y" value="23" />
+    <option name="x" value="1023" />
+    <option name="y" value="371" />
     <option name="width" value="1052" />
     <option name="height" value="1027" />
   </component>
@@ -369,22 +367,22 @@
       <updated>1558621663823</updated>
       <workItem from="1558621665030" duration="26411000" />
       <workItem from="1558935037103" duration="19331000" />
-      <workItem from="1559166065990" duration="278000" />
+      <workItem from="1559166065990" duration="949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50111000" />
+    <option name="totallyTimeSpent" value="50782000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="628" y="23" width="1052" height="1027" extended-state="0" />
+    <frame x="1032" y="691" width="1052" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17943744" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17943744" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.11721225" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.6409715" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -663,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imports/ui/PrivateHeader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="115">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
